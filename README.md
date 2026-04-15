@@ -5,4 +5,4 @@
 
 Here are some ideas to get you started:
 
---> Im a student at LAB
+--> Im a student at LAB UAS In Finland, currently studying in Industrial IT Bachelors
